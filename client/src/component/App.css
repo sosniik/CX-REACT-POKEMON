@@ -1,0 +1,10 @@
+body{
+    background : url("../ressource/test.png") fixed no-repeat bottom right , #363231 fixed;
+    
+}
+
+img.pokelogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
